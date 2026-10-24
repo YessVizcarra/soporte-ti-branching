@@ -9,3 +9,4 @@
 1. Restablecer contraseña
 2. Revisar permisos
 3. Verificar acceso a red
+
