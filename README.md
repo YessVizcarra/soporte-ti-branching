@@ -7,4 +7,11 @@
 1. Restablecer contraseña
 2. Revisar permisos
 3. Verificar acceso a red
+----------------------------------------
+## Problemas de red
 
+Si no hay conexión:
+
+1 Verificar cable
+2 Reiniciar router
+3 Ejecutar ipconfig
