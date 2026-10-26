@@ -1,7 +1,3 @@
-# soporte-ti-branching
-# Manual de Soporte TI Documentación básica para resolver incidencias comunes.
-
-
 ## Problemas de equipo lento
 
 Si el equipo funciona con lentitud:
